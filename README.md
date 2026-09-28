@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://anandhukrishna.dev)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@anandhukrishna091)
 
-📍 Paris, France &nbsp;|&nbsp; 🎓 EPITA M2 Data Science &nbsp;|&nbsp; 🤖 3+ years in AI/ML
+📍 Paris, France &nbsp;|&nbsp; 🎓 EPITA M2 Data Science &nbsp;|&nbsp; 🤖 4+ years in AI/ML
 
 </div>
 
